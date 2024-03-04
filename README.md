@@ -26,7 +26,8 @@ import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS.csv")
 df
 ```
-![Uploading image.png…]()
+![image](https://github.com/KesavDeepak/exno1/assets/139336019/20597f67-dec8-4430-9633-d8129ef79a4b)
+
 
 # Result
           <<include your Result here>>
